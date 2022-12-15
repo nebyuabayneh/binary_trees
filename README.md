@@ -7,8 +7,6 @@
     <h1 align="center">Binary trees</h1>
 </div>
 
-# 0x1D. C - Binary trees
-
 #This project is for my alx software engineering program
 In this project, I learnt:
 
