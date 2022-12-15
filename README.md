@@ -3,7 +3,7 @@
     <img
     style="text-align:center"
     src="https://raw.githubusercontent.com/coding-max/hbtn_config/main/assets/head_low-level.png"
-    alt="Holberton School"/>
+    alt="ALX School"/>
     <h1 align="center">Binary trees</h1>
 </div>
 
